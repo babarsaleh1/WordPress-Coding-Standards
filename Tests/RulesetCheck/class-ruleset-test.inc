@@ -111,3 +111,4 @@ class Ruleset_Test {
 		echo 'This is a goto - it needs to be here to prevent parse errors';
 	}
 }
+* Currently covered - based on the rulesets as of July 24 2018:2020
